@@ -1,2 +1,1 @@
-# MachineLearning-Algorithms
-A reference code for university project
+This repository contains all the code for Machine Learning Models.
