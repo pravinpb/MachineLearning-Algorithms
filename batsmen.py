@@ -22,7 +22,7 @@ def variance(arr):
     variance = 0
     for score in arr:
         variance += (score-mean(arr))**2
-    return variance
+    return variance/len(arr)
 
 #standard deviation
 def std_ev(arr):
